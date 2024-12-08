@@ -252,7 +252,7 @@ let userdata=localStorage.getItem("jarvis_setup");
 
 transcript=transcript.toLowerCase();
 console.log(`my words:${transcript}`);
-    if(transcript.includes("hello Infinx")){
+    if(transcript.includes("hello Eera")){
         readOut("Hello Mam");
         console.log("hello Mam");
     }
